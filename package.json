@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "main.js",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
